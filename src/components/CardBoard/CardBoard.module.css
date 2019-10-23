@@ -1,0 +1,22 @@
+.wrappCardBody {
+  display: flex;
+  flex-flow: wrap;
+  padding: 0.75rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrappCardBody>span {
+  margin-left: 5px;
+  margin-top: 5px;
+  color: #979797;
+}
+
+.icon_img {
+  height: 30px;
+  width: 30px;
+}
+
+.icon_img>img {
+  height: 100%;
+  width: 100%;
+}

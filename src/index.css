@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: rgb(199, 196, 196) !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,12 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.wrapperInCol {
+  height: 500px;
+  width: 100%;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 2px;
 }
