@@ -13,8 +13,16 @@ code {
     monospace;
 }
 
-.wrapperInCol {
+.wic {
   height: 500px;
+  width: 100%;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.wic-md {
+  height: 250px;
   width: 100%;
   padding: 15px;
   background-color: #fff;

@@ -18,9 +18,9 @@ const Header: React.FC = () => {
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
           <Nav.Link onClick={handleClick} href="/">Главная</Nav.Link>
+          <Nav.Link onClick={handleClick} href="services">Услуги</Nav.Link>
           <Nav.Link onClick={handleClick} href="#statements" className="ml-4">Заявления</Nav.Link>
           <Nav.Link onClick={handleClick} href="#consultations">Консультации</Nav.Link>
-          <Nav.Link onClick={handleClick} href="#services">Услуги</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

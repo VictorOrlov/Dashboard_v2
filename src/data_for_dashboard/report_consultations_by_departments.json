@@ -1,0 +1,55 @@
+{
+  "data": {
+    "report_consultations_by_passports": [
+      {
+        "id": 38,
+        "passport": "Консультация частного лица",
+        "consultations": 486
+      },
+      {
+        "id": 37,
+        "passport": "Предоставление сведений",
+        "consultations": 45
+      },
+      {
+        "id": 89,
+        "passport": "Перераспределение земельных участков (физ.лицам)",
+        "consultations": 32
+      },
+      {
+        "id": 49,
+        "passport": "Консультация юр.лица или ИП",
+        "consultations": 23
+      }
+    ]
+  },
+  "meta": {
+    "total_records": 4,
+    "total_pages": 1,
+    "table_config": {
+      "columns": [
+        {
+          "Header": "id",
+          "accessor": "id",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "passport",
+          "accessor": "passport",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "consultations",
+          "accessor": "consultations",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        }
+      ]
+    }
+  }
+}

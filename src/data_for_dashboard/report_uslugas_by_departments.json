@@ -1,0 +1,580 @@
+{
+  "data": {
+    "report_uslugas_by_departments": [
+      {
+        "id": 9,
+        "department": "КВБ",
+        "uslugas": 1034
+      },
+      {
+        "id": 10,
+        "department": "УАиГ",
+        "uslugas": 850
+      },
+      {
+        "id": 3,
+        "department": "ОТК КВБ",
+        "uslugas": 759
+      },
+      {
+        "id": 1,
+        "department": "Городской дизайн",
+        "uslugas": 325
+      },
+      {
+        "id": 8,
+        "department": "ОСЗН КВБ",
+        "uslugas": 278
+      },
+      {
+        "id": 6,
+        "department": "Минкульт РТ",
+        "uslugas": 245
+      },
+      {
+        "id": 36,
+        "department": "ОА УАиГ",
+        "uslugas": 198
+      },
+      {
+        "id": 22,
+        "department": "КЗиИО",
+        "uslugas": 176
+      },
+      {
+        "id": 29,
+        "department": "Администрация КиМР",
+        "uslugas": 168
+      },
+      {
+        "id": 28,
+        "department": "Администрация ВиПР",
+        "uslugas": 168
+      },
+      {
+        "id": 27,
+        "department": "Администрация АиНСР",
+        "uslugas": 168
+      },
+      {
+        "id": 30,
+        "department": "Администрация СР",
+        "uslugas": 168
+      },
+      {
+        "id": 12,
+        "department": "ИК",
+        "uslugas": 131
+      },
+      {
+        "id": 33,
+        "department": "ОПЗУ УАиГ",
+        "uslugas": 112
+      },
+      {
+        "id": 39,
+        "department": "ОпПГМ КЗиИО",
+        "uslugas": 75
+      },
+      {
+        "id": 38,
+        "department": "ОАЗ КЗиИО",
+        "uslugas": 63
+      },
+      {
+        "id": 41,
+        "department": "ОАСОПнЗУиСВ КЗиИО",
+        "uslugas": 33
+      },
+      {
+        "id": 37,
+        "department": "ОГПЗУ УАиГ",
+        "uslugas": 29
+      },
+      {
+        "id": 32,
+        "department": "ОДиК УАиГ",
+        "uslugas": 12
+      },
+      {
+        "id": 40,
+        "department": "ОЗ КЗиИО",
+        "uslugas": 11
+      },
+      {
+        "id": 53,
+        "department": "Организационно-кадровый отдел",
+        "uslugas": 7
+      },
+      {
+        "id": 15,
+        "department": "УГР",
+        "uslugas": 6
+      },
+      {
+        "id": 42,
+        "department": "ОИК КЗиИО",
+        "uslugas": 5
+      },
+      {
+        "id": 44,
+        "department": "ДТТ",
+        "uslugas": 5
+      },
+      {
+        "id": 51,
+        "department": "Отдел аренды муниципального имущества",
+        "uslugas": 5
+      },
+      {
+        "id": 4,
+        "department": "УИТиС",
+        "uslugas": 5
+      },
+      {
+        "id": 105,
+        "department": "филиал ГБУ МФЦ Тукаевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 35,
+        "department": "Headmade",
+        "uslugas": 4
+      },
+      {
+        "id": 45,
+        "department": "МИТ РТ",
+        "uslugas": 4
+      },
+      {
+        "id": 107,
+        "department": "филиал ГБУ МФЦ г. Набережные Челны",
+        "uslugas": 4
+      },
+      {
+        "id": 86,
+        "department": "филиал ГБУ МФЦ Буинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 84,
+        "department": "филиал ГБУ МФЦ Балтасинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 92,
+        "department": "филиал ГБУ МФЦ Зеленодольского района",
+        "uslugas": 4
+      },
+      {
+        "id": 101,
+        "department": "филиал ГБУ МФЦ Нурлатского района",
+        "uslugas": 4
+      },
+      {
+        "id": 93,
+        "department": "филиал ГБУ МФЦ Кайбицкого района",
+        "uslugas": 4
+      },
+      {
+        "id": 89,
+        "department": "филиал ГБУ МФЦ Дрожжановского района",
+        "uslugas": 4
+      },
+      {
+        "id": 69,
+        "department": "филиал ГБУ МФЦ  Черемшанского района",
+        "uslugas": 4
+      },
+      {
+        "id": 31,
+        "department": "КПР",
+        "uslugas": 4
+      },
+      {
+        "id": 50,
+        "department": "Отдел правового обеспечения",
+        "uslugas": 4
+      },
+      {
+        "id": 102,
+        "department": "филиал ГБУ МФЦ Рыбно-Слободского района",
+        "uslugas": 4
+      },
+      {
+        "id": 60,
+        "department": "МФЦ Пестречинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 97,
+        "department": "филиал ГБУ МФЦ Менделеевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 14,
+        "department": "Комитет по транспорту",
+        "uslugas": 4
+      },
+      {
+        "id": 66,
+        "department": "МФЦ по пгт Камские Поляны",
+        "uslugas": 4
+      },
+      {
+        "id": 109,
+        "department": "филиал МФЦ \"Южный\"",
+        "uslugas": 4
+      },
+      {
+        "id": 108,
+        "department": "филиал ГБУ МФЦ пгт Джалиль",
+        "uslugas": 4
+      },
+      {
+        "id": 59,
+        "department": "МФЦ Нижнекамского района",
+        "uslugas": 4
+      },
+      {
+        "id": 13,
+        "department": "КСП",
+        "uslugas": 4
+      },
+      {
+        "id": 65,
+        "department": "МФЦ для бизнеса",
+        "uslugas": 4
+      },
+      {
+        "id": 2,
+        "department": "ДИТ",
+        "uslugas": 4
+      },
+      {
+        "id": 16,
+        "department": "КСРТ",
+        "uslugas": 4
+      },
+      {
+        "id": 62,
+        "department": "МФЦ Спасского района",
+        "uslugas": 4
+      },
+      {
+        "id": 75,
+        "department": "филиал ГБУ МФЦ Аксубаевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 98,
+        "department": "филиал ГБУ МФЦ Мензелинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 73,
+        "department": "филиал ГБУ МФЦ \"Приволжский\"",
+        "uslugas": 4
+      },
+      {
+        "id": 103,
+        "department": "филиал ГБУ МФЦ Сармановского района",
+        "uslugas": 4
+      },
+      {
+        "id": 11,
+        "department": "Аппарат ИК",
+        "uslugas": 4
+      },
+      {
+        "id": 99,
+        "department": "филиал ГБУ МФЦ Муслюмовского района",
+        "uslugas": 4
+      },
+      {
+        "id": 88,
+        "department": "филиал ГБУ МФЦ Высокогорского района",
+        "uslugas": 4
+      },
+      {
+        "id": 82,
+        "department": "филиал ГБУ МФЦ Атнинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 113,
+        "department": "МГИС",
+        "uslugas": 4
+      },
+      {
+        "id": 43,
+        "department": "ОУиУМИ КЗиИО",
+        "uslugas": 4
+      },
+      {
+        "id": 7,
+        "department": "ОCЛК КВБ",
+        "uslugas": 4
+      },
+      {
+        "id": 100,
+        "department": "филиал ГБУ МФЦ Новошешминского района",
+        "uslugas": 4
+      },
+      {
+        "id": 79,
+        "department": "филиал ГБУ МФЦ Альметьевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 48,
+        "department": "Отдел муниципального земельного контроля",
+        "uslugas": 4
+      },
+      {
+        "id": 26,
+        "department": "УАТИ",
+        "uslugas": 4
+      },
+      {
+        "id": 85,
+        "department": "филиал ГБУ МФЦ Бугульминского района",
+        "uslugas": 4
+      },
+      {
+        "id": 72,
+        "department": "филиал ГБУ МФЦ \"Ново-Савиновский \"",
+        "uslugas": 4
+      },
+      {
+        "id": 95,
+        "department": "филиал ГБУ МФЦ Лениногорского района",
+        "uslugas": 4
+      },
+      {
+        "id": 78,
+        "department": "филиал ГБУ МФЦ Алькеевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 57,
+        "department": "МФЦ Камско-Устьинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 24,
+        "department": "УКСиР",
+        "uslugas": 4
+      },
+      {
+        "id": 81,
+        "department": "филиал ГБУ МФЦ Арского района",
+        "uslugas": 4
+      },
+      {
+        "id": 61,
+        "department": "МФЦ Сабинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 19,
+        "department": "Управление культуры",
+        "uslugas": 4
+      },
+      {
+        "id": 77,
+        "department": "филиал ГБУ МФЦ Алексеевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 25,
+        "department": "Финансовое управление",
+        "uslugas": 4
+      },
+      {
+        "id": 94,
+        "department": "филиал ГБУ МФЦ Лаишевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 21,
+        "department": "УНРиИ",
+        "uslugas": 4
+      },
+      {
+        "id": 49,
+        "department": "Отдел контроля муниципального имущества",
+        "uslugas": 4
+      },
+      {
+        "id": 47,
+        "department": "Отдел приватизации",
+        "uslugas": 4
+      },
+      {
+        "id": 17,
+        "department": "УЖП",
+        "uslugas": 4
+      },
+      {
+        "id": 20,
+        "department": "Старый город",
+        "uslugas": 4
+      },
+      {
+        "id": 76,
+        "department": "филиал ГБУ МФЦ Актанышского района",
+        "uslugas": 4
+      },
+      {
+        "id": 106,
+        "department": "филиал ГБУ МФЦ Чистопольского района",
+        "uslugas": 4
+      },
+      {
+        "id": 104,
+        "department": "филиал ГБУ МФЦ Тетюшского района",
+        "uslugas": 4
+      },
+      {
+        "id": 5,
+        "department": "Инженерный отдел",
+        "uslugas": 4
+      },
+      {
+        "id": 18,
+        "department": "УОРУ",
+        "uslugas": 4
+      },
+      {
+        "id": 64,
+        "department": "МФЦ Ютазинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 55,
+        "department": "Дербышинский отдел ГБУ МФЦ в РТ",
+        "uslugas": 4
+      },
+      {
+        "id": 23,
+        "department": "КЖКХ",
+        "uslugas": 4
+      },
+      {
+        "id": 56,
+        "department": "МФЦ Азнакаевского района",
+        "uslugas": 4
+      },
+      {
+        "id": 91,
+        "department": "филиал ГБУ МФЦ Заинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 58,
+        "department": "МФЦ Кукморского района",
+        "uslugas": 4
+      },
+      {
+        "id": 87,
+        "department": "филиал ГБУ МФЦ Верхнеуслонского района",
+        "uslugas": 4
+      },
+      {
+        "id": 74,
+        "department": "филиал ГБУ МФЦ Агрызского района",
+        "uslugas": 4
+      },
+      {
+        "id": 54,
+        "department": "МФЦ",
+        "uslugas": 4
+      },
+      {
+        "id": 71,
+        "department": "филиал ГБУ МФЦ \"Московский\"",
+        "uslugas": 4
+      },
+      {
+        "id": 68,
+        "department": "Центральный филиал по г. Набережные Челны",
+        "uslugas": 4
+      },
+      {
+        "id": 34,
+        "department": "ОРП УАиГ",
+        "uslugas": 4
+      },
+      {
+        "id": 96,
+        "department": "филиал ГБУ МФЦ Мамадышского район",
+        "uslugas": 4
+      },
+      {
+        "id": 80,
+        "department": "филиал ГБУ МФЦ Апастовского района",
+        "uslugas": 4
+      },
+      {
+        "id": 70,
+        "department": "филиал ГБУ МФЦ \"Зареченский\"",
+        "uslugas": 4
+      },
+      {
+        "id": 52,
+        "department": "Отдел районных архитекторов",
+        "uslugas": 4
+      },
+      {
+        "id": 83,
+        "department": "филиал ГБУ МФЦ Бавлинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 67,
+        "department": "Советский отдел ГБУ МФЦ в РТ",
+        "uslugas": 4
+      },
+      {
+        "id": 63,
+        "department": "МФЦ Тюлячинского района",
+        "uslugas": 4
+      },
+      {
+        "id": 90,
+        "department": "филиал ГБУ МФЦ Елабужского района",
+        "uslugas": 4
+      }
+    ]
+  },
+  "meta": {
+    "total_records": 109,
+    "total_pages": 1,
+    "table_config": {
+      "columns": [
+        {
+          "Header": "id",
+          "accessor": "id",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "department",
+          "accessor": "department",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "uslugas",
+          "accessor": "uslugas",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        }
+      ]
+    }
+  }
+}

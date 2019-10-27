@@ -1,3 +1,8 @@
+.headerCardBoard {
+  height: 75px;
+  overflow-x: hidden;
+}
+
 .wrappCardBody {
   display: flex;
   flex-flow: wrap;

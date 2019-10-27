@@ -1,0 +1,162 @@
+{
+  "data": {
+    "report_consultations_by_servants": [
+      {
+        "id": 5,
+        "servant": "Колупаева Юлия Сергеевна",
+        "consultations": 80,
+        "departments": "Городской дизайн,Минкульт РТ,УАиГ"
+      },
+      {
+        "id": 13,
+        "servant": "Белицкая Жанна Владимировна",
+        "consultations": 68,
+        "departments": "Городской дизайн,Минкульт РТ,УАиГ"
+      },
+      {
+        "id": 38,
+        "servant": "Крамчанинова Елена Александровна",
+        "consultations": 64,
+        "departments": "Отдел районных архитекторов,УАиГ"
+      },
+      {
+        "id": 45,
+        "servant": "Фонарева Ольга Александровна",
+        "consultations": 63,
+        "departments": "ОРП УАиГ,УАиГ"
+      },
+      {
+        "id": 31,
+        "servant": "Иванова Татьяна Фирсовна",
+        "consultations": 56,
+        "departments": "ИК,ОГПЗУ УАиГ,УАиГ"
+      },
+      {
+        "id": 68,
+        "servant": "Самигуллина Ляйсян Ягъфаровна",
+        "consultations": 53,
+        "departments": "ОРП УАиГ,УАиГ"
+      },
+      {
+        "id": 23,
+        "servant": "Сагдеев Ильфат Ильсурович",
+        "consultations": 32,
+        "departments": "ОПЗУ УАиГ,УАиГ"
+      },
+      {
+        "id": 252,
+        "servant": "Романова Венера Абдулбариевна",
+        "consultations": 26,
+        "departments": "УАиГ"
+      },
+      {
+        "id": 452,
+        "servant": "Исламова Екатерина Павловна",
+        "consultations": 25,
+        "departments": "УАиГ"
+      },
+      {
+        "id": 10,
+        "servant": "Качайкина Дарья Владимировна",
+        "consultations": 22,
+        "departments": "Городской дизайн,УАиГ"
+      },
+      {
+        "id": 33,
+        "servant": "Шарипова Наталья Алексеевна",
+        "consultations": 18,
+        "departments": "Городской дизайн,УАиГ"
+      },
+      {
+        "id": 27,
+        "servant": "Мелкумова Нонна Георгиевна",
+        "consultations": 17,
+        "departments": "ОРП УАиГ,УАиГ"
+      },
+      {
+        "id": 63,
+        "servant": "Латыпова Анастасия Анатольевна",
+        "consultations": 14,
+        "departments": "Городской дизайн,УАиГ"
+      },
+      {
+        "id": 44,
+        "servant": "Видулина Наталья Павловна",
+        "consultations": 10,
+        "departments": "Инженерный отдел,УАиГ"
+      },
+      {
+        "id": 25,
+        "servant": "Данилова Олеся Хайдаровна",
+        "consultations": 10,
+        "departments": "УАиГ"
+      },
+      {
+        "id": 18,
+        "servant": "Дябилкина Ирина Витальевна",
+        "consultations": 10,
+        "departments": "Городской дизайн,УАиГ"
+      },
+      {
+        "id": 159,
+        "servant": "Хасанова Жанна Вадимовна",
+        "consultations": 7,
+        "departments": "ОРП УАиГ,УАиГ"
+      },
+      {
+        "id": 39,
+        "servant": "Лобанова Анна Сергеевна",
+        "consultations": 4,
+        "departments": "УАиГ"
+      },
+      {
+        "id": 59,
+        "servant": "Давыдов Тимур Николаевич",
+        "consultations": 4,
+        "departments": "Городской дизайн,УАиГ"
+      },
+      {
+        "id": 52,
+        "servant": "Калимуллина Лея Рафаэлевна",
+        "consultations": 3,
+        "departments": "ОРП УАиГ,УАиГ"
+      }
+    ]
+  },
+  "meta": {
+    "total_records": 20,
+    "total_pages": 1,
+    "table_config": {
+      "columns": [
+        {
+          "Header": "id",
+          "accessor": "id",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "servant",
+          "accessor": "servant",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "consultations",
+          "accessor": "consultations",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        },
+        {
+          "Header": "departments",
+          "accessor": "departments",
+          "show": true,
+          "filterable": false,
+          "sortable": false
+        }
+      ]
+    }
+  }
+}

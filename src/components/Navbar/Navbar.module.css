@@ -1,0 +1,13 @@
+.wrapper {
+  height: 93vh;
+  background-color: #343a40;
+  position: sticky !important;
+  top: 56px;
+  border-radius: 0 0 6px 0;
+}
+
+@media(max-width: 991px) {
+  .wrapper {
+    display: none
+  }
+}
